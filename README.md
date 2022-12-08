@@ -6,3 +6,5 @@ Sentence 2.
 Sentence 3.
 
 msg from collaborator.
+
+在Feature1这个分支上测试不同文件的处理 - 来自User1的更改
